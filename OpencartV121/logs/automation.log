@@ -1,0 +1,36 @@
+2024-07-30 13:00:25 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-07-30 13:00:25 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-07-30 13:00:26 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-07-30 13:00:26 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-07-30 13:00:28 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-07-30 13:00:28 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-07-30 13:00:28 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2024-07-30 13:00:33 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2024-07-30 13:00:36 INFO  TC002_LoginTest:41 - ****** Finished TC_002_LoginTest *****
+2024-07-30 13:14:40 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-07-30 13:14:40 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-07-30 13:14:41 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-07-30 13:14:41 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-07-30 13:14:43 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-07-30 13:14:43 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-07-30 13:14:43 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2024-07-30 13:14:47 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2024-07-30 13:14:49 INFO  TC002_LoginTest:41 - ****** Finished TC_002_LoginTest *****
+2024-07-30 13:45:48 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-07-30 13:45:48 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-07-30 13:45:48 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-07-30 13:45:48 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-07-30 13:45:50 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-07-30 13:45:50 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-07-30 13:45:50 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2024-07-30 13:45:55 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2024-07-30 13:45:56 INFO  TC002_LoginTest:41 - ****** Finished TC_002_LoginTest *****
+2024-07-30 13:57:27 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-07-30 13:57:27 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-07-30 13:57:28 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-07-30 13:57:28 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-07-30 13:57:29 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-07-30 13:57:29 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-07-30 13:57:29 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2024-07-30 13:57:34 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2024-07-30 13:57:35 INFO  TC002_LoginTest:41 - ****** Finished TC_002_LoginTest *****
